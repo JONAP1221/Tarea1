@@ -83,7 +83,7 @@ p {
     margin: 1px;
 }
 
-.divisionImagen{
+.centrar{
     text-align: center;
 }
 
@@ -93,4 +93,13 @@ p {
 
 hr{
     border-color: black;
+}
+
+.videos{
+    position: fixed;
+    top: 169.5px;
+    color: black;
+    left: 32%;
+    width: 66%;
+       
 }
